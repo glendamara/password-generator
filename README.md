@@ -1,4 +1,4 @@
-<h1>Password Generator 🔒</h1>h1> <br>
+<h1>Password Generator 🔒</h1> <br>
 A simple, customizable password generator created using HTML, CSS, and JavaScript. This application allows users to generate secure passwords with configurable options to meet their security needs.
 
 <h2>🚀 Features </h2> <br>
