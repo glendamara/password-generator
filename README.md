@@ -13,7 +13,7 @@ Prerequisites:
 * A web browser.
 * (Optional) A local server such as Live Server extension for VSCode.
   
-Installation
+Installation <br>
 Clone the repository:
 git clone https://github.com/glendamara/password-generator.git
 
@@ -23,7 +23,7 @@ cd password-generator
 Open index.html in your browser:
 You can double-click index.html or use a local server for better performance.
 
-🧩 Usage
+🧩 Usage <br>
 Open the application in your browser.
 Configure your password options:
 Length: Set the desired password length.
