@@ -1,12 +1,12 @@
-Password Generator 🔒 <br>
+<h1>Password Generator 🔒<h1> <br>
 A simple, customizable password generator created using HTML, CSS, and JavaScript. This application allows users to generate secure passwords with configurable options to meet their security needs.
 
-🚀 Features <br>
+<h2>🚀 Features </h2> <br>
 Generate passwords with customizable length and complexity.
 Option to include uppercase letters, lowercase letters, numbers, and special characters.
 Responsive design to fit all device sizes.
 
-📋 Getting Started
+<h2>📋 Getting Started </h2> <br>
 To run this project locally, follow these steps:
 
 Prerequisites:
@@ -23,7 +23,7 @@ cd password-generator
 Open index.html in your browser:
 You can double-click index.html or use a local server for better performance.
 
-🧩 Usage <br>
+<h2>🧩 Usage </h2> <br>
 Open the application in your browser.
 Configure your password options:
 Length: Set the desired password length.
