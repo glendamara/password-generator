@@ -1,7 +1,7 @@
-Password Generator 🔒
+Password Generator 🔒 <br>
 A simple, customizable password generator created using HTML, CSS, and JavaScript. This application allows users to generate secure passwords with configurable options to meet their security needs.
 
-🚀 Features
+🚀 Features <br>
 Generate passwords with customizable length and complexity.
 Option to include uppercase letters, lowercase letters, numbers, and special characters.
 Responsive design to fit all device sizes.
